@@ -1,1 +1,22 @@
-print ("hello world");
+#First Program to Print hello world
+print ("hello world")
+
+#Assiging values and adding them
+a=1
+b=2
+c=(a+b)
+print(c)
+
+# Assiging string and printing
+a="Github" 
+print(a)
+
+# Making string as upper and lowercase
+a="Github"
+print(a.upper())
+#for lowercase
+print(a.lower())
+
+#For finding lenth of the value assigned in a
+print(len(a))
+
